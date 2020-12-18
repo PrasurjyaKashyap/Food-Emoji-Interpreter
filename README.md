@@ -2,4 +2,4 @@
 
 Created with CodeSandbox
 
-A food emoji interpreter created with HTML,CSS,Javascript and React.
+A food emoji interpreter created with HTML, CSS, Javascript and React.
